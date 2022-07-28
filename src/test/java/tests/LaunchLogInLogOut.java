@@ -25,7 +25,7 @@ public class LaunchLogInLogOut {
     	
     }
      
-    @Test()
+    @Test
     public void InvokeTest() throws Exception {
     	LogIn login = new LogIn(driver);
     	login.clickOpenMenuBtn();
